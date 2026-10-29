@@ -137,19 +137,12 @@ print(traversepath)
 
 <h3>Output:</h3>
 
-```
-8 9
-A B
-A C
-B E
-C D
-B D
-C G
-D F
-G F
-F H
-```
-<img width="935" height="486" alt="image" src="https://github.com/user-attachments/assets/33946b12-c73a-406e-b3b0-18ae4f289662" />
+<h6>Output 1:</h6>
+<img width="417" height="240" alt="image" src="https://github.com/user-attachments/assets/946eb173-0a74-427e-8ced-f58833dd0ac2" />
+
+<h6>Output 2:</h6>
+<img width="126" height="156" alt="image" src="https://github.com/user-attachments/assets/afe49480-b855-411c-b985-cc7d5456e8d6" />
+
 
 <h3>Result:</h3>
 <hr>
